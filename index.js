@@ -5,7 +5,8 @@ import Home from './Home';
 class App extends React.Component{
     render(){
         return <div>
-            laoxie，完成首页功能
+        	<p>hello</p>
+            laoxie，我是静静，完成首页功能
         </div>
     }
 }
